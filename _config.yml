@@ -1,4 +1,4 @@
-theme: Modernist
+theme: Hacker
 defaults:
   - scope:
       path: "_assets/images"
