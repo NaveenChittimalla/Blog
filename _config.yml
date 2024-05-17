@@ -1,4 +1,4 @@
-theme: jekyll-theme-modernist
+theme: jekyll-theme-midnight
 defaults:
   - scope:
       path: "assets/img"
