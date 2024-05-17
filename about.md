@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**My Coding Stack blog for announcements, technical discussions, and more updates.**
+**My Coding Stack blog for announcements, technology updates, and more...**
