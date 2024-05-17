@@ -1,1 +1,6 @@
-theme: minima
+theme: Modernist
+defaults:
+  - scope:
+      path: "_assets/images"
+    values:
+      image: true
