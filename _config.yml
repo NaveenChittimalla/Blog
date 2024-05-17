@@ -1,4 +1,4 @@
-theme: Hacker
+theme: jekyll-theme-minimal
 defaults:
   - scope:
       path: "_assets/images"
