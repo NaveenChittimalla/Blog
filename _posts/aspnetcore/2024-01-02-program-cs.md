@@ -1,14 +1,18 @@
+---
+title: Program.cs
+permalink: /aspnetcore/programcs/
+---
 <div style="width:100%; background-color:grey;">
 <div style="width:50%;float:left;text-align:left;">
-<a href="aspnetcore.md"><-- ASP.NET Core Home</a>
+<a href="blog/aspnetcore/home/"><-- ASP.NET Core Home</a>
 </div>
 <div style="width:50%;float:right;text-align:right;">
-<a href="pages/2024-05-24-host.md">What is a Host --></a>
+<a href="blog/aspnetcore/host/">What is a Host --></a>
 </div>
 </div>
 <div style="height:20px;">&nbsp;</div>
 
-### Program.cs
+
 Program.cs is the entry point, where the application starts. 
 
 #### What we can do in Program.cs
@@ -59,9 +63,9 @@ We will discuss more details in future sections.
 <div style="height:20px;">&nbsp;</div>
 <div style="width:100%; background-color:grey;">
 <div style="width:50%;float:left;text-align:left;">
-<a href="aspnetcore.md"><-- ASP.NET Core Home</a>
+<a href="blog/aspnetcore/home/"><-- ASP.NET Core Home</a>
 </div>
 <div style="width:50%;float:right;text-align:right;">
-<a href="pages/2024-05-24-host.md">What is a Host --></a>
+<a href="blog/aspnetcore/host/">What is a Host --></a>
 </div>
 </div>
