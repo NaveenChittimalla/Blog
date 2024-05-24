@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2024-05-24T09:59:53.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ItTkoZ5BnCvPCf7nOl5W" version="24.4.7" type="device">
+  <diagram name="Page-1" id="T3Kq9pzYyW7JimdKxSqi">
+    <mxGraphModel dx="1110" dy="445" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--1" value="Cross Platform" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="32" y="60" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--2" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;Develop applications&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;run them on different operating systems&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;such as Windows, MacOS,&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;and Linux,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AP1Vgdv9UR3lYPJYeCA--1" vertex="1">
+          <mxGeometry x="-6" y="32" width="251" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--3" value="Open Source" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;swimlaneLine=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="298" y="60" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;Source code of ASP.NET Core is&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;available online&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;on GitHub platform&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;to inspect the code&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&amp;nbsp;, it&#39;s implementation,&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;and enhance if needed,&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AP1Vgdv9UR3lYPJYeCA--3" vertex="1">
+          <mxGeometry x="-2" y="28" width="256" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--5" value="Built-in Dependency Injection" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;swimlaneLine=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="566" y="60" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--6" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Create a loosely coupled program by&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;building components independent&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;of&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;their dependencies&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;for improving&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;reusability, and testability.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AP1Vgdv9UR3lYPJYeCA--5" vertex="1">
+          <mxGeometry y="31" width="229" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--7" value="Modular HTTP Pipeline" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="34" y="203" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--8" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;Create a modular HTTP request&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;pipeline&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;by registering built-in&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;and&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 12px;&quot;&gt;your own middleware components,&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AP1Vgdv9UR3lYPJYeCA--7" vertex="1">
+          <mxGeometry x="12" y="35.5" width="219" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--9" value="Cloud Ready" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;swimlaneLine=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="301" y="208" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--10" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Create cloud ready&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 153);&quot;&gt;applications with&lt;/b&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;environment-based configuration system.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AP1Vgdv9UR3lYPJYeCA--9" vertex="1">
+          <mxGeometry x="-2" y="43" width="257" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--11" value="Side-by-Side Versioning" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;swimlaneLine=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="569" y="203" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AP1Vgdv9UR3lYPJYeCA--12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;Run multiple versions of an application&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;or components on the same machine.&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="AP1Vgdv9UR3lYPJYeCA--11" vertex="1">
+          <mxGeometry x="4" y="43" width="245" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="7qRWGsjmLrKmXPdpJF1J-1" value="Blazor" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="34" y="350" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qRWGsjmLrKmXPdpJF1J-2" value="&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Run C# code in the browser,&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;means the server-side and&amp;nbsp; client-side&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;logic can be shared.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7qRWGsjmLrKmXPdpJF1J-1" vertex="1">
+          <mxGeometry x="2" y="35.5" width="239" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7qRWGsjmLrKmXPdpJF1J-3" value="gRPC" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;swimlaneLine=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="303" y="350" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qRWGsjmLrKmXPdpJF1J-4" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;Create and host the&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;Remote procedure call (RPC)&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 153); background-color: initial;&quot;&gt;services&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial; color: rgb(0, 0, 153);&quot;&gt;using gRPC.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7qRWGsjmLrKmXPdpJF1J-3" vertex="1">
+          <mxGeometry x="33" y="36" width="187" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7qRWGsjmLrKmXPdpJF1J-5" value="Different Web Servers" style="swimlane;startSize=23;fillColor=#0000CC;strokeColor=#0000CC;strokeWidth=2;rounded=1;fontColor=#FFFFFF;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;swimlaneLine=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="574" y="350" width="240" height="115" as="geometry">
+            <mxRectangle x="324" y="150" width="114" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7qRWGsjmLrKmXPdpJF1J-6" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;Supports different web servers and&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;platforms such as IIS, Kestrel,&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;b&gt;HTTP.sys, Nginx, Apache, Docker.&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7qRWGsjmLrKmXPdpJF1J-5" vertex="1">
+          <mxGeometry x="15" y="36" width="223" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
