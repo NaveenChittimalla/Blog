@@ -13,6 +13,8 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
 
+[jekyll-minima-theme](https://github.com/jekyll/minima/blob/master/_includes/social.html)
+
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
