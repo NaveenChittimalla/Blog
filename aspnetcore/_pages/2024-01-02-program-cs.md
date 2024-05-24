@@ -1,6 +1,5 @@
 ---
 title: Program.cs
-permalink: /aspnetcore/programcs/
 ---
 <div style="width:100%; background-color:grey;">
 <div style="width:50%;float:left;text-align:left;">
