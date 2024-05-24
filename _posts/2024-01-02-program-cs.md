@@ -1,12 +1,13 @@
 ---
 title: Program.cs
+category: aspnetcore
 ---
 <div style="width:100%; background-color:grey;">
 <div style="width:50%;float:left;text-align:left;">
-<a href="https://naveenchittimalla.github.io/blog/aspnetcore/"><-- ASP.NET Core Home</a>
+<a href="https://naveenchittimalla.github.io/blog/aspnetcore/2024/01/02/home.html"><-- ASP.NET Core Home</a>
 </div>
 <div style="width:50%;float:right;text-align:right;">
-<a href="https://naveenchittimalla.github.io/blog/aspnetcore/host/">What is a Host --></a>
+<a href="https://naveenchittimalla.github.io/blog/aspnetcore/2024/01/02/host.html">What is a Host --></a>
 </div>
 </div>
 <div style="height:20px;">&nbsp;</div>
@@ -62,9 +63,9 @@ We will discuss more details in future sections.
 <div style="height:20px;">&nbsp;</div>
 <div style="width:100%; background-color:grey;">
 <div style="width:50%;float:left;text-align:left;">
-<a href="https://naveenchittimalla.github.io/blog/aspnetcore/"><-- ASP.NET Core Home</a>
+<a href="https://naveenchittimalla.github.io/blog/aspnetcore/2024/01/02/home.html"><-- ASP.NET Core Home</a>
 </div>
 <div style="width:50%;float:right;text-align:right;">
-<a href="https://naveenchittimalla.github.io/blog/aspnetcore/host/">What is a Host --></a>
+<a href="https://naveenchittimalla.github.io/blog/aspnetcore/2024/01/02/host.html">What is a Host --></a>
 </div>
 </div>
