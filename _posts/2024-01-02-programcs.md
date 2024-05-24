@@ -1,6 +1,7 @@
 ---
 title: Program.cs - ASP.NET Core
 category: aspnetcore
+hidden: true
 ---
 <div style="width:100%; background-color:grey;">
 <div style="width:50%;float:left;text-align:left;">
