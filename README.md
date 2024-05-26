@@ -2,7 +2,7 @@
 
 # My Coding Stack
 
-_Technology updates, technical courses announcements, and live sessions._
+_Technology updates, technical courses, and live sessions announcements._
 
 </header>
 
