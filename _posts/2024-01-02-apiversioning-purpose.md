@@ -42,8 +42,7 @@ hidden: true
 <style>
 
 .code{
-	background-color: black;
-	color: white;
+	background-color: #f0f0f0;
 	font-size: 14px;
 	padding: 10px;
 	margin: 10px;
@@ -53,6 +52,7 @@ hidden: true
 .highlight {
    font-weight: bold;
    font-size: 15px;
+   background-color: #f0f0f0;
 }
 
 </style>
