@@ -26,28 +26,28 @@ category: aspnetcore
 ### Implementation
 - Open visual studiio 2022 IDE and click on **Create a new project**. 
 
-  ![Create a new project](/assets/img/versioning/controllers/1-open-vs-create-project-VS2022.png)
+  ![Create a new project](/blog/assets/img/versioning/controllers/1-open-vs-create-project-VS2022.png)
 - Choose project template **ASP.NET Core Empty**.
 
-	![Choose project template](/assets/img/versioning/controllers/2-choose-project-template.png)
+	![Choose project template](/blog/assets/img/versioning/controllers/2-choose-project-template.png)
 - Configure project details such as name, location to store the project files, and solution name and click on **Next**.
 
-  ![Configure project details](/assets/img/versioning/controllers/3-configure-project.png)
+  ![Configure project details](/blog/assets/img/versioning/controllers/3-configure-project.png)
 - Configure the additional information such as framework version, https, etc., and click on **Create**. To make it simple, I have not selected any additional settings.
 
-  ![Configure project additional info](/assets/img/versioning/controllers/4-configure-project-additional-info.png)
+  ![Configure project additional info](/blog/assets/img/versioning/controllers/4-configure-project-additional-info.png)
   
 - New project created with some default files as showm below.
 
-    ![New project and files](/assets/img/versioning/controllers/5-new-project.png)
+    ![New project and files](/blog/assets/img/versioning/controllers/5-new-project.png)
 	
 - Project execution starts from Program.cs class
 
-    ![Program.cs file](/assets/img/versioning/controllers/6-program-cs-default.png)
+    ![Program.cs file](/blog/assets/img/versioning/controllers/6-program-cs-default.png)
 	
 - Configure web api controller services and middleware in Program.cs file as shown below.
 	
-	![Configure controllers services and middleware](/assets/img/versioning/controllers/7-configure-web-api-controllers-program-cs.png)
+	![Configure controllers services and middleware](/blog/assets/img/versioning/controllers/7-configure-web-api-controllers-program-cs.png)
 	
 - Create a models Product
 
