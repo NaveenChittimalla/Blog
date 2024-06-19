@@ -1,65 +1,8 @@
 ---
-title: Web Api Versioning - Controllers
+title: Web Api Versioning purpose
 category: aspnetcore
 hidden: true
 ---
-# 
-
-### Prerequisites
-- Visual Studio 2022 or above.
-- .Net SDK 8.0 or Above
-
-### What we will do
-- Create an empty ASP.NET Core application.
-- Configure web api services and middleware in **Program.cs**.
-- Create models.
-	- /Models/V1/Product.cs
-	- /Models/V2/Product.cs
-- Create Controllers.
-	- /Controllers/V1/ProductController.cs
-	- /Controllers/V2/ProductController.cs
-- Install the packages
-	- Asp.Versioning.Http
-	- Asp.Versioning.Mvc.ApiExplorer
-- Configure api versioning settings in Program.cs.
-- Apply and map api version to controllers and action methods.
-- Test the api versioning functionality.
-
-### Implementation
-- Open visual studiio 2022 IDE.
-- Create a new project using the template **ASP.NET Core Empty**.
-- Remove the line app.MapGet("/", () => "Hello World!"); in **Program.cs**.
-- Configure the Web Api controllers services and middleware in **Program.cs**.
-	<div class="code">                                                
-		<p>var builder = WebApplication.CreateBuilder(args);</p>
-		<p class="highlight">builder.Services.AddControllers();</p>
-		<p>var app = builder.Build();</p>
-		<p class="highlight">app.MapControllers();</p>
-		<p>app.Run();</p>
-	<div>
-- Create a models Product
-
-<style>
-
-.code{
-	background-color: #f0f0f0;
-	font-size: 14px;
-	padding: 10px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-.highlight {
-   font-weight: bold;
-   font-size: 15px;
-   background-color: #f0f0f0;
-}
-
-</style>
-To be continued....
-........
-........
-........
 ## Breaking Changes
 To prioritize security, enhance features, and maintain code quality, new versions of our software might include breaking changes. While we strive to minimize these changes through careful architectural choices, they can still occur. In such cases, we make it a priority to announce them and provide possible solutions.
 
